@@ -1,3 +1,6 @@
+####Beautification of code.
+
+
 import random # for generating random number
 import sys  #We will use to exit the program
 import pygame
